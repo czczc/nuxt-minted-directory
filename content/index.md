@@ -11,7 +11,6 @@ See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to
 Get inspired by other directories:
 
 - 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-- 🏠 [FortyTwoTools](https://fortytwotools.com)
 
 ---
 

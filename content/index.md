@@ -2,7 +2,7 @@
 layout: wide
 ---
 
-# This is your brand new directory ! 👋
+# This is my home 👋
 
 You can customize this page in markdown.
 

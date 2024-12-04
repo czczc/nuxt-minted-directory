@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "My Home",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,9 +10,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
-    description: "Example Description",
-    url: "https://example.com",
+    name: "My Home",
+    description: "",
+    url: "https://czczc-nuxt-minted-directory.nuxt.space/",
     favicon: {
       image: "",
       emoji: "🍃",
@@ -42,7 +42,7 @@ export default defineAppConfig({
         type: "shadow",
       },
       submit: {
-        show: true,
+        show: false,
         first: false,
         title: "Submit a template",
         description:
